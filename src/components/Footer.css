@@ -38,3 +38,19 @@
     display: inline-block;
     float: none;
   }
+
+  @media screen and (max-width: 960px) {
+    .footer-container {
+        background-color: #242424;
+        padding: 5px 5px 5px 5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    } 
+
+    .social-icon-link {
+        padding: 20px;
+        font-size: 34px;
+      }
+  }

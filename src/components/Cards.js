@@ -1,6 +1,7 @@
 import React from 'react'
 import CardItem from './CardItem';
 import './Cards.css';
+import kuva from '../images/doli.jpg';
 
 function Cards() {
     return (
@@ -14,9 +15,9 @@ function Cards() {
                         label='cat'
                         path='/mywork'
                         />
-                        <CardItem src='../images/doli.jpg'
-                        text ="How cute is she"
-                        label='cat'
+                        <CardItem src={kuva}
+                        text ="wow"
+                        label='thing'
                         path='/mywork'
                         />
                     </ul>
