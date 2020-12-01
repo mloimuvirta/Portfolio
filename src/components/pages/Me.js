@@ -1,6 +1,12 @@
 import React from 'react';
 import '../../App.css';
+import Footer from '../Footer';
 
 export default function Me() {
-    return <h1 className="me">MÄ, MÄÄ, MEITSI</h1>
+    return (
+    <div>
+        <h1 className="me">MÄ, MÄÄ, MEITSI</h1>
+        <Footer />
+    </div>
+    )
 };
