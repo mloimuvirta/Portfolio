@@ -1,0 +1,21 @@
+.code-wrapper {
+    padding: 10px;
+}
+
+.code-wrapper::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.code-img {
+    padding: 50px 30px 50px 20px;
+    width: 40%;
+    float: right;
+}
+
+.code-txt {
+    padding: 80px;
+  justify-content: center;
+  align-items: center;
+}
