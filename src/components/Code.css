@@ -19,3 +19,19 @@
   justify-content: center;
   align-items: center;
 }
+
+@media screen and (max-width: 960px) {
+    .code-wrapper {
+        padding: 5px;
+    }
+    .code-img {
+        width: 100%;
+        float: left;
+    }
+    .code-txt {
+        font-weight: lighter;
+        justify-content: center;
+        align-items: center;
+        
+      }
+}

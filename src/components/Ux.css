@@ -1,4 +1,5 @@
 .ux-wrapper {
+    font-weight: lighter;
     padding: 10px;
 }
 
@@ -10,12 +11,14 @@
 
 .ux-img {
     padding: 50px 30px 50px 20px;
-    width: 40%;
+    width: 800px;
     float: left;
 }
 
 .ux-txt {
-  padding-top: 60px;
+  
+  font-size: 20px;
+  padding: 60px;
   justify-content: center;
   align-items: center;
 }
@@ -29,7 +32,9 @@
         float: left;
     }
     .ux-txt {
+        font-weight: lighter;
         justify-content: center;
         align-items: center;
+        
       }
 }

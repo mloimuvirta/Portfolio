@@ -4,11 +4,14 @@ import './Code.css';
 
 function Code() {
     return (
+       
         <div className="code">
+             {/*TODO: Set css layout. Font.  */}
             <div className="code-container">
                 <div className="code-wrapper">
                     
                     <img className="code-img" src={kuva} />
+                    {/** TODO: Set text */}
                     <div className="code-txt">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a vehicula nibh, eu congue urna. Mauris et pretium quam, quis lobortis sem. Phasellus non arcu leo. Sed ultricies eu nunc a ullamcorper. Fusce eu dui posuere tellus auctor cursus et at arcu. Morbi interdum scelerisque odio vitae aliquam. Ut ac rutrum urna.</p>
 
