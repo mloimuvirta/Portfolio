@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.94d491e7.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.c8aab7c9.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.c8aab7c9.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.27d0c433.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.cedbd8ab.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.cedbd8ab.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.b47c9c33.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.b47c9c33.js.map",
     "static/js/2.f0624121.chunk.js": "/my-portfolio/static/js/2.f0624121.chunk.js",
     "static/js/2.f0624121.chunk.js.map": "/my-portfolio/static/js/2.f0624121.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "static/css/main.94d491e7.chunk.css.map": "/my-portfolio/static/css/main.94d491e7.chunk.css.map",
+    "static/css/main.27d0c433.chunk.css.map": "/my-portfolio/static/css/main.27d0c433.chunk.css.map",
     "static/js/2.f0624121.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.f0624121.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/my-portfolio/static/media/milla_ismo.08017f52.jpg",
+    "static/media/SOTASUNNUNTAI_.5ab75ef4.png": "/my-portfolio/static/media/SOTASUNNUNTAI_.5ab75ef4.png",
+    "static/media/App.css": "/my-portfolio/static/media/videoss.745bcec8.png",
     "static/media/HeroSection.css": "/my-portfolio/static/media/kuva.9f0c39ed.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b47c9c33.js",
     "static/js/2.f0624121.chunk.js",
-    "static/css/main.94d491e7.chunk.css",
-    "static/js/main.c8aab7c9.chunk.js"
+    "static/css/main.27d0c433.chunk.css",
+    "static/js/main.cedbd8ab.chunk.js"
   ]
 }
