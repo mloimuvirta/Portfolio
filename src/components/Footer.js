@@ -5,7 +5,7 @@ import './Footer.css';
 function Footer() {
     return (
         <div className='footer-container'>
-            <p>Let's keep in touch.</p>
+            <p>milla.loimuvirta@gmail.com</p>
             <div className="footer-links">
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">

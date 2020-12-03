@@ -1,7 +1,7 @@
 import React from 'react'
 import CardItem from './CardItem';
 import './Cards.css';
-import kuva from '../images/doli.jpg';
+import kuva1 from '../images/MIESTEN_SOTA.png';
 import kuva2 from '../images/SOTASUNNUNTAI_.png';
 
 function Cards() {
@@ -12,13 +12,13 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem src={kuva2}
-                        text ="How cute is she"
-                        label='cat'
+                        text ="Here I'll show something someday"
+                        label='pictures'
                         path='/mywork'
                         />
-                        <CardItem src={kuva}
-                        text ="wow"
-                        label='thing'
+                        <CardItem src={kuva1}
+                        text ="This too shall be awesome."
+                        label='pictures'
                         path='/mywork'
                         />
                     </ul>

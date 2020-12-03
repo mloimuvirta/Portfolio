@@ -10,17 +10,23 @@
 
 .code-img {
     padding: 50px 30px 50px 20px;
-    width: 40%;
+    width: 800px;
     float: right;
 }
 
 .code-txt {
-    padding: 80px;
-  justify-content: center;
-  align-items: center;
+    font-size: 18px;
+    padding: 60px;
+    justify-content: center;
+    align-items: center;
 }
 
-@media screen and (max-width: 960px) {
+.code-txt > p {
+    padding-top: 20px;
+}
+
+
+@media screen and (max-width: 1215px) {
     .code-wrapper {
         padding: 5px;
     }

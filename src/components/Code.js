@@ -13,9 +13,12 @@ function Code() {
                     <img className="code-img" src={kuva} />
                     {/** TODO: Set text */}
                     <div className="code-txt">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a vehicula nibh, eu congue urna. Mauris et pretium quam, quis lobortis sem. Phasellus non arcu leo. Sed ultricies eu nunc a ullamcorper. Fusce eu dui posuere tellus auctor cursus et at arcu. Morbi interdum scelerisque odio vitae aliquam. Ut ac rutrum urna.</p>
+                        <h1>FRONTEND DEVELOPMENT</h1>
+                        <p>My dream job would definately be a ux-minded frontend-developer. This site is one of my latest and i'm still working on it. </p>
 
-                        <p>Nunc sit amet ultricies est. Aliquam in dui accumsan, sodales lacus vel, commodo mi. Nulla et lorem eu erat fringilla lacinia id sit amet nisl. Nam purus lectus, dapibus vel augue at, tempor semper ipsum. Vestibulum facilisis nec nulla eu congue. Suspendisse finibus sapien nec nisl molestie dignissim. Praesent tellus neque, egestas nec orci a, malesuada consequat lorem. Nullam venenatis interdum elit, sit amet rutrum quam dignissim ut. Phasellus non erat orci.</p>
+                        <p>Projects in my studies have usually been teamwork so unfortunately there is not much to show. In the future I will show the whole wide wolrd all the awesome things I've done. Be patient.</p>
+
+                        <p>For now I'm focusing on the frontend but I'll never say never to fullstack. First I'll be the badass frontend person and later fullstack-wizard as they say. </p>
                     </div>
                     
                 </div>
