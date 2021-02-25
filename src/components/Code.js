@@ -14,7 +14,7 @@ function Code() {
                     {/** TODO: Set text */}
                     <div className="code-txt">
                         <h1>FRONTEND DEVELOPMENT</h1>
-                        <p>My dream job would definately be a ux-minded frontend-developer. This site is one of my latest and i'm still working on it. </p>
+                        <p>My dream job would definately be a ux-minded frontend-developer. This site is one of my latest and i'm still working on it... </p>
 
                         <p>Projects in my studies have usually been teamwork so unfortunately there is not much to show. In the future I will show the whole wide wolrd all the awesome things I've done. Be patient.</p>
 
